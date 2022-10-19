@@ -14,13 +14,16 @@ body {
 aside {
   width: 30%;
   float: right;
+  border: aqua;
+  margin: auto;
 }
 
 .lado-esquerdo {
   width: 30%;
   float: left;
+  padding: auto;
 }
 
-table, th, td {
-  border:1px solid black;
-}  
+table , th , td {
+  border: 1px solid black;
+}
