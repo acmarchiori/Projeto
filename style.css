@@ -11,3 +11,8 @@ aside {
   width: 30%;
 	float: right;
 }
+
+.lado-esquerdo {
+	width: 30%;
+	float: left;
+}
