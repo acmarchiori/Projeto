@@ -20,3 +20,7 @@ aside {
   width: 30%;
   float: left;
 }
+
+table, th, td {
+  border:1px solid black;
+}  
